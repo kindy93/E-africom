@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>E-Africom</title>
+  </head>
+  <body>
+    <header>
+        <img 
+          src="C:\Users\Bambi\Desktop\formation D W\projet site web\mes logos\mon logo.jpg"
+          alt="mon logo"
+        />
+      <nav>
+        <ul>
+          <li class="menu-Nos-prodruits"></li><a href="page3.html">Nos produits</a></li>
+          <li class="menu-nos-service"></li><a href="page2.html">Nos services</a></li>
+          <li class="menu-contacts"></li><a href="page4.html">Mode</a></li>
+          <li class="menu-mon-compte"></li><a href="mon compte.html">Mon compte</a>
+          <li class="menu-mes-commandes"></li><a href="mes commandes.html">Mes commandes</a>
+        </ul>
+      </nav>
+      <p>E-Africom est un site de e-commerce pour des produits qui proviennent de l'Afrique</p>
+    </header>
+    <main>
+      <section>
+        <h2>Bonjour et bienvenu sur le site E-Africom</h2>
+        <p>
+        E-Africom est un site qui est à votre service pour des achats de toute genre de produit local venant d'afrique. <br>
+        Qui vous permet d'avoir a vos disposition les prodruits lacaux que vous désirez
+        </p>
+      </section>
+      <section>
+        <h2>Nos produits</h2>
+        <article>
+        <img
+          src="C:\Users\Bambi\Desktop\formation D W\projet site web\page web\image\made.jpg"
+          title="made"
+          alt="made" 
+          width="200"
+          height="200"
+        />
+          <p>Made</p>
+      </article>
+      <article>  
+        <img
+          src="C:\Users\Bambi\Desktop\formation D W\projet site web\page web\image\citron.jpg"
+          title="Citron"
+          alt="citron"
+          width="200"
+          height="200"
+        />
+          <p>Citron</p>
+      </article>
+      <article>  
+        <img
+          src="C:\Users\Bambi\Desktop\formation D W\projet site web\page web\image\nois d'acajoux.jpg"
+          title="Nois d'acajoux"
+          alt="nois d'acajoux"
+          width="200"
+          height="200"
+        />
+          <p>Nois d'acajoux</p>
+      </article>
+      <article> 
+          <img
+            src="C:\Users\Bambi\Desktop\formation D W\projet site web\page web\image\acajoux.jpg"
+            title="Acajoux"
+            alt="acajoux"
+            width="200"
+            height="200"
+        />
+          <p>Acajoux</p>
+      </article>
+      <article>
+        <img
+          src="C:\Users\Bambi\Desktop\formation D W\projet site web\page web\image\huitres.jpg"
+          title="Huitres"
+          alt="huitres"
+          width="200"
+          height="200"
+        />
+      </article>
+        <p>Huitres</p>
+      </section>
+    </main>
+    <footer>
+        <h3>vous pouvez nous joindre notre service client </h3>
+        <a href="tel:+33604497323">☎️ 0604497323</a><br>
+        <a href="mailto:mkindydialllo@gmail.com">📧 mkindydialllo@gmail.com</a><br>
+    </footer>
+  </body>
+</html>
