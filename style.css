@@ -1,0 +1,77 @@
+
+body{
+    color: black;
+    background-color: rgb(245, 250, 244);
+}
+h1{
+    text-decoration: underline;
+    color: red;
+}
+header img{
+    width: 70px
+}
+h2{
+    color: rgb(13, 13, 14);
+}
+p{
+    text-align: justify;
+    font-weight: bold;
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    font-weight: bold;
+    color: blue;
+}
+nav li{
+    list-style-type:none;
+    float: left;
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+    color: blue;
+}
+.menu-Acceuil:hover{
+    border-top: 5px solid #0070bb;
+    background-color: RGBa(241, 77, 38, 0.15);
+}
+.menu-nos-produits:hover{
+    border-top: 5px solid #e44d26;
+    background-color: RGBa(000, 112, 192, 0.15);
+}
+.menu-contacts:hover{
+    border-top: 5px solid #BBB;
+    background-color: RGBa(220, 220, 220, 0.15);
+}
+.mon-comptes{
+border-top: 5px solid blue;
+background-color: RGBa(220, 220, 220, 0.15);
+}
+.mes-commandes{
+    border-top: 5px solid rgb(238, 95, 95);
+    background-color: RGBa(220, 220, 220, 0.15);
+}
+nav li:hover a{
+padding: 15px 30px 20px 30px;
+}
+footer {
+    text-align: center;
+    background-color: rgb(209, 123, 89);
+    color: white;
+    list-style-type:none;
+    float: center;
+    width: 100%;
+}
+.contenu-footer{
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 50px 0 100px;
+}
+li{
+    list-style-type:none;  
+}
